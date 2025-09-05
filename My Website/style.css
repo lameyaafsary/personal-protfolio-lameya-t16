@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 60px;
+    background-color: #532404;
+    color: #fdfeff; 
+    padding-top:15px;
+}
+
+a{
+    text-decoration: none;
+}
+.a0{
+    font-size: 200%;
+    padding-left: 200px ;
+    
+}
+.a1{
+    
+    color: aliceblue;
+    padding-left: 500px;
+    font-size: 150%;
+   
+}
+.a2{
+   
+    color: aliceblue;
+    padding-left: 100px;
+    font-size: 150%;
+    
+}
+.a3{
+    
+    color: aliceblue;
+    padding-left: 500px;
+    
+}
+.a4{
+   padding-left: 200px;
+}
+.a5{
+    padding-left: 1000px;
+}
+
+.td2{
+     padding-left: 300px;
+     padding-top: 100px;
+
+}
+.td1{
+    width: 800px;
+}
+body{
+    background-color: #ebe1d3;
+}
+
+.hello{
+    width: hug(1000px);
+    height: hug(449px);
+    color:  #532404;
+    padding-left: 200px;
+    padding-top: 100px;
+   
+    
+}
+.footer{
+    background-color: #532404;
+    color: white;
+    height: 70px;
+    margin-top: 220px;
+    padding-top: 25px;
+   
+    
+}
+.container{
+    width: 1200px;
+    height: 431px;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns:  1fr 1fr 1fr 1fr 1fr 1fr;
+    color: aliceblue;
+    padding-left: 350px;
+    gap:9px;
+    
+
+    
+}
+.box{
+    padding: 4rem;
+    background-color:#532404;
+    color: aliceblue;
+    border: 5px solid rgb(199, 141, 108);
+    font-size: 25px;
+    text-align: center;
+    border-radius: 30px;
+   
+    
+    
+}
+
+.box4{
+    width: 350px;
+}
+.footer1{
+    background-color:#532404;
+    color: white;
+    height: 70px;
+    margin-top: 30px;
+    padding-top: 25px;
+
+
+}   
+
+.p2{
+    padding-left: 350px;
+    color:  #75350a;
+
+    padding-top: 280px;
+
+}
+
+.td3{
+    padding-top: 150px;
+    padding-left: 500px;
+     
+}
+.footer2{
+    background-color: #532404 ;
+    color: white;
+    height: 70px;
+    margin-top: 100px;
+    padding-top: 25px;
+}
+.chat{
+    width: 100%;
+    color: #532404 ;
+    padding-left: 90px;
+    padding-top: 100px;
+    font-size: 30px;
+}
+.form{
+    color: #070707;
+    padding-right:200px;
+    font-size: 40px;
+    
+}
+
+a{
+    text-decoration: none;
+}
